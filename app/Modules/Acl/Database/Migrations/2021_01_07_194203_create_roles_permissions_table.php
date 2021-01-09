@@ -19,7 +19,7 @@ class CreateRolesPermissionsTable extends Migration
             $table->timestamps();
         });
 
-        // Create table for associating roles to users (Many-to-Many)
+        // Create table roles to users (Many-to-Many)
         Schema::create('role_user', function (Blueprint $table) {
             // see https://laravel.com/docs/8.x/migrations#foreign-key-constraints
             $table->foreignId('user_id')->constrained()

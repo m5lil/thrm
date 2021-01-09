@@ -1,0 +1,26 @@
+{
+    "Users": "الموظفين",
+    "users": "الموظفين",
+    "user": "موظف",
+    "Permission": "",
+    "Permissions": "",
+    "Roles": "",
+    "Role": "",
+
+    "Sign In": "دخول",
+    "Sign Up": "تسجيل جديد",
+    "Not yet a member?": "لا تملك حسابا",
+    "Enter Your Username": "إسم المستخدم",
+    "Enter Your Password": "كلمة المرور",
+    "Keep me SignIn": "تذكرنى",
+    "Forgot password?": "نسيت كلمة المرور؟",
+
+
+    "Name": "الإسم",
+    "Username": "إسم المستخدم",
+    "Email": "البريد",
+    "Password": "كلمة السر",
+    "Confirm Password": "أعد كلمة السر",
+    "Last Login": "أخر دخول",
+    "Created at": "أنشء فى"
+}
