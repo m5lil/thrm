@@ -1,7 +1,8 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Modules\Team\Controllers;
 
+use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
 class TeamController extends Controller
